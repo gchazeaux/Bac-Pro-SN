@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.myapp.mobile" version="2.25" xmlns="http://www.w3.org/ns/widgets">
   <name>Bac Pro SN</name>
-  <description>This is the best app ever.</description>
-  <author email="info@myapp.com" href="http://www.myapp.com">Amazing App Team</author>
+  <description>Application pour la classe de 2de Bac Pro SN SSIHT - Lp Louise Michel Ruffec </description>
+  <author email="g.chazeaux@gmail.com" href="http://bacprosn.dscloud.me">Bac Pro SN - Ruffec</author>
   <preference name="phonegap-version" value="cli-6.3.0" />
   <preference name="permissions" value="none" />
   <preference name="orientation" value="portrait" />
