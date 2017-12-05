@@ -3,7 +3,7 @@
   <name>Bac Pro SN</name>
   <description>Application pour la classe de 2de Bac Pro SN SSIHT - Lp Louise Michel Ruffec </description>
   <author email="g.chazeaux@gmail.com" href="http://bacprosn.dscloud.me">Bac Pro SN - Ruffec</author>
-  <preference name="phonegap-version" value="cli-6.3.0" />
+  <preference name="phonegap-version" value="cli-6.5.0" />
   <preference name="permissions" value="none" />
   <preference name="orientation" value="portrait" />
   <preference name="target-device" value="universal" />
